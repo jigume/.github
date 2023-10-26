@@ -58,3 +58,6 @@
 **FRONT**
 - `React`, `Javascript`, `Recoil`, `ReactQuery`, `Tailwind`, `FramerMotion` ...
 
+**BACK**
+- `Java17`, `Spring Boot 3.1.3`, `Spring Security`, `Spring Data JPA`, `MySQL 8.0`, `AWS S3`, `Gradle 7.6.1` ...
+
