@@ -54,6 +54,8 @@
 
 <br/>
 
+![아키텍처](https://github.com/jigume/.github/assets/68184254/6c9dbf95-9bc3-449d-b267-679bf222a722)
+
 ## 기술 스택
 **FRONT**
 - `React`, `Javascript`, `Recoil`, `ReactQuery`, `Tailwind`, `FramerMotion` ...
